@@ -54,6 +54,7 @@ Al finalizar este curso, los estudiantes serán capaces de:
 *   **Jueves (4 horas):**
     *   **Tema:** Diseño de Base de Datos
     *   **Lecturas:** Silberschatz, Capítulo 9
+    *   **Quiz #1:** Relacionado al contenido de la semana 1 y lo que se hizo en el Miro Board.
 *   **Viernes (4 horas):**
     *   **Tema:** Modelos NoSQL (Clave-Valor, Documentales, Columnares)
     *   **Lectura de Artículo:** Presentación y discusión de un artículo científico.
