@@ -2,13 +2,13 @@
 
 **Descripción del Curso:** Este curso intensivo de tres semanas proporciona una introducción a nivel de posgrado a los principios y prácticas de los sistemas de bases de datos modernos. El curso cubrirá los fundamentos teóricos de la gestión de bases de datos, incluyendo modelos de datos, álgebra relacional y SQL, así como aspectos prácticos del diseño, implementación y administración de bases de datos. También se introducirán temas avanzados como bases de datos distribuidas, NoSQL y almacenamiento de datos.
 
-**Instructor:** [Tu Nombre]
+**Instructor:** Servio Palacios, Ph.D.
 
-**Contacto:** [Tu Correo Electrónico]
+**Contacto:** servio@mayanmind.ai
 
 **Horario:** Jueves, Viernes y Sábados, 4 horas cada día.
 
-**Ubicación:** [Número de Aula]
+**Ubicación:** Virtual
 
 ## Objetivos del Curso
 
