@@ -15,10 +15,11 @@
 Al finalizar este curso, los estudiantes serán capaces de:
 
 * Comprender los conceptos fundamentales de los sistemas de bases de datos.
-* Diseñar e implementar una base de datos relacional.
+* Diseñar e implementar una base de datos organizacional.
 * Escribir consultas SQL complejas.
 * Comprender los principios de la gestión de transacciones y el control de concurrencia.
 * Familiarizarse con temas avanzados de bases de datos como bases de datos distribuidas y NoSQL.
+* Familiarizarse con las últimas tecnologías, por ejemplo: Inteligencia Artificial; y cómo las bases de datos ayudan a organizar los datos.
 
 ## Libro de Texto Requerido
 
